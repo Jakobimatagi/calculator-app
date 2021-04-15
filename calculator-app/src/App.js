@@ -5,9 +5,7 @@ import Input from './components/Input'
 import ClearButton from './components/ClearButton'
 import React from 'react'
 import {useState} from 'react'
-import {
-  atan2, chain, derivative, e, evaluate, log, pi, pow, round, sqrt
-} from 'mathjs'
+import {atan2, chain, derivative, e, evaluate, log, pi, pow, round, sqrt} from 'mathjs'
 function App() {
   
 
